@@ -1,0 +1,22 @@
+.container {
+  background-size: cover;
+  background-position: center;
+  padding: 210px 0 210px 0;
+}
+
+.banner-container {
+  width: 800px;
+  margin: 0 auto;
+  line-height: 60px;
+}
+
+.container h2 {
+  color: white;
+  font-size: 33px;
+  font-weight: 900;
+}
+
+.container p {
+  color: rgb(202, 200, 200);
+  font-size: 20px;
+}
